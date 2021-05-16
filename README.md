@@ -1,1 +1,2 @@
-"# Language_Detection_Model" 
+Language Detection model using Natural Language Processing.
+We need to analyze the data and preprocess it firstly. A bag of words model is created to represent our text data. Text extraction and vectorization are important steps that are done for good predictions in NLP.Finally we've used Naive Bayes Classifier which always proves to be a better model in such text classification problems, and hence get more accurate results.
